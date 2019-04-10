@@ -1,0 +1,14 @@
+{
+  "name": "container-info",
+  "version": "1.0.0",
+  "description": "Docker Container Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Jang",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
